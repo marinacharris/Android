@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejercicio3</string>
+    <string name="etiqueta1">Texto de prueba</string>
+    <string name="hint_texto">Escriba un mensaje</string>
+</resources>
